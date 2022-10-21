@@ -4,7 +4,7 @@ layout: default
 
 ## Independent, Pre-University Work
 
-### While there are many things we could (only doubtfully_ should_) say about the compulsory education system of the United States, I was lucky enough to have just enough free time to explore the many possible facets of digital art. Here are a few exemplary pieces.
+### While there are many likely unpleasant things we could say about the compulsory education system of the United States, I was lucky enough to have just enough free time to explore the many possible facets of digital art. Here are a few exemplary pieces.
 
 ![Summer Glow](https://i.imgur.com/8SbfGmD.jpg)
 
