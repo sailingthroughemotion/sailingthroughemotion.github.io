@@ -30,6 +30,6 @@ The warmly-colored final poster was just the icing on the cake prior to having t
 ## Radical Feminist T-Shirt
 Another project which touched on personal interests and concerns, we were given a prompt to design a T-shirt that showcased a message for something that we wished society could achieve within the next X years. As an avid proponent of radical feminism, I took inspiration from the colorful aesthetics of second-wave feminism, such as the Michigan Womyn's Festival.
 
-![Radfem Poster](https://i.imgur.com/zl4NlhK.png)
+![Radfem Poster](https://i.imgur.com/byxO5Zj.jpg)
 
 [back](./)
