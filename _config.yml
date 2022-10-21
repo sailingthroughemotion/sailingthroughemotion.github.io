@@ -1,3 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
 title: Uliana Chembrovich
-description: art & design portfolio
+logo: 
+description: ART & DESIGN
+show_downloads: false
+google_analytics:
+remote_theme: pages-themes/minimal@v0.2.0
