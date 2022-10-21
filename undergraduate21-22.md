@@ -32,4 +32,18 @@ Another project which touched on personal interests and concerns, we were given 
 
 ![Radfem Poster](https://i.imgur.com/byxO5Zj.jpg)
 
+* * * 
+
+## ... and what were we expecting to find down there?
+Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media.
+
+![Plinko](https://i.imgur.com/Auj4zys.jpg)
+
+* * *
+
+## What I Can Touch
+This poster was part of the advertising campaign for the 2022 WARPhaus spring exhibition. The social media post version can be found [here](https://www.instagram.com/p/CcMADi6lukd/?igshid=MDJmNzVkMjY=).
+
+![What I Can Touch](https://i.imgur.com/sW63sFV.png)
+
 [back](./)
