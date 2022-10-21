@@ -8,9 +8,9 @@ I have been drawing for as long as I can remember myself, constantly itching to 
 
 # Archive
 
-* [Pre-UF Academic Work](./another-page.html)
-* [2021 Undergraduate Work](./url1.html)
-* [2022 Undergraduate Work](./url2.html)
+* [Pre-UF Academic Work](./preuf.html)
+* [2021 Undergraduate Work](./undergraduate21.html)
+* [2022 Undergraduate Work](./undergraduate22.html)
 
 # Contact Me
 
