@@ -7,7 +7,7 @@ layout: default
 ### Freshman year is the crown year of portfolio-building, and it was no different for me, starting August 2021. I got the chance to get my first real taste of actionable graphic design.
 
 ## Post-Soviet Heart
-This was a digital collage for an asssignment converying deep and shallow space. Largely abstract and emotional, both parts of these echo the messy, conflicting feelings between my nationality and my sexuality.
+This was a digital collage for an asssignment conveying deep and shallow space. Largely abstract and emotional, both parts of these echo the messy, conflicting feelings between my nationality and my sexuality.
 
 ![Composite](https://i.imgur.com/KFa4rqo.jpg)
 
