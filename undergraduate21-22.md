@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2021 Undergraduate Work
+# 2021-22
 
 ### Freshman year is the crown year of portfolio-building, and it was no different for me, starting August 2021. I got the chance to get my first real taste of actionable graphic design.
 
