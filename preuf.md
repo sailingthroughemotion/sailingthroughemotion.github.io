@@ -4,7 +4,7 @@ layout: default
 
 # Independent, Pre-University Work
 
-### While there are many likely unpleasant things we could say about the compulsory education system of the United States, I was lucky enough to have just enough free time to explore the many possible facets of digital art. Here are a few exemplary pieces.
+### While there are many likely unpleasant things we could say about the compulsory education system of the United States, I was lucky enough to have just enough free time to explore the many possible facets of digital art. Here are a few exemplary pieces:
 
 ## Summer Glow
 This drawing was done in PaintToolSAI in 2017. It was the first piece I'd made which showed development of my sense of dimension and lighting.
