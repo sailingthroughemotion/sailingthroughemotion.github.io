@@ -41,6 +41,13 @@ Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled s
 
 * * *
 
+## Russian Culture Club Merchandise
+I was actively involved in UF's Russian Culture Club and was given the chance to create a new design for some cool merch. This design was printed on a few dozen crewneck sweatshirts. It depicts the words "Russian Club", with a firebird -- a common mythical creature in Slavic folklore.
+
+![Firebird Merch](https://i.imgur.com/cTvFNbj.png)
+
+* * *
+
 ## What I Can Touch
 This poster was part of the advertising campaign for the 2022 WARPhaus spring exhibition. The social media post version can be found [here](https://www.instagram.com/p/CcMADi6lukd/?igshid=MDJmNzVkMjY=).
 
