@@ -6,7 +6,7 @@ layout: default
 
 ### I started my sophomore year early in May of 2022 and focused primarily on typographic and explorative digital work during the summer.
 
-##A Girl and a Black Pegasus
+## A Girl and a Black Pegasus
 Somewhere between the ages of 16 and 19, I was thoroughly burnt out on creative art that was done solely for my own enjoyment. 2022 spurred my journey of rediscovering my love for the process, and with it, came many self-indulgent studies and paintings, such as this one.
 
 ![girl and black pegasus](https://i.imgur.com/EycCOPI.png)
