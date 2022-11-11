@@ -6,11 +6,6 @@ layout: default
 
 ### I started my sophomore year early in May of 2022 and focused primarily on typographic and explorative digital work during the summer.
 
-## A Girl and a Black Pegasus
-Somewhere between the ages of 16 and 19, I was thoroughly burnt out on creative art that was done solely for my own enjoyment. 2022 spurred my journey of rediscovering my love for the process, and with it, came many self-indulgent studies and paintings, such as this one.
-
-![girl and black pegasus](https://i.imgur.com/EycCOPI.png)
-
 * * * 
 
 ## I've Seen You
@@ -46,12 +41,6 @@ The summer of '22 was spent primarily on campus, but the creative time I had at 
 
 ![Perspective Study](https://i.imgur.com/013t27g.png)
 
-* * *
-
-## Mejiro McQueen Fan-Art
-How better to apply the digital art techniques I'd begun to pick up than use the framework of an already-existing character? Mejiro McQueen is one of the main characters of the second season of _Uma Musume: Pretty Derby_.
-
-![Fanart](https://i.imgur.com/9ZDj2As.jpg)
 
 
 [back](./)
