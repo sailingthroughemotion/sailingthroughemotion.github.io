@@ -34,13 +34,6 @@ When prompted to create an "instructional zine", I struggled to come up with som
 
 [![T1D](https://i.imgur.com/UlmIA14.png)](https://indd.adobe.com/view/b5a66ab3-e52f-4719-a6d6-81f616d7c024)
 
-* * * 
-
-## Fantasy Perspective Study 
-The summer of '22 was spent primarily on campus, but the creative time I had at home wasn't wasted either. Investing in Marc Brunet's ART School courses, I began working on seriously studying the technical aspects of digital art through his well-crafted lessons and exercises.
-
-![Perspective Study](https://i.imgur.com/013t27g.png)
-
 
 
 [back](./)
