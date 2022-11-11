@@ -16,6 +16,9 @@ I have been drawing for as long as I can remember myself, constantly itching to 
 
 # Contact Me
 
-|E-Mail                  |Instagram                                        |Noun Project                                        |
-|:-----------------------|:------------------------------------------------|:---------------------------------------------------|
-|ulianachem2021@gmail.com|[paccvetbl](https://www.instagram.com/paccvetbl/)|[● ✖ ■](https://thenounproject.com/ulianachem2021/)|
+|E-Mail                  |Instagram                                        |
+|:-----------------------|:------------------------------------------------|
+|ulianachem2021@gmail.com|[paccvetbl](https://www.instagram.com/paccvetbl/)|
+|Noun Project                                        |
+|:---------------------------------------------------|
+|[● ✖ ■](https://thenounproject.com/ulianachem2021/)|
