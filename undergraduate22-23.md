@@ -2,9 +2,30 @@
 layout: default
 ---
 
-# 2022-23
+# 2022
 
-### I started my sophomore year early in May of 2022 and focused primarily on typographic and explorative digital work during the summer.
+### My freshman year wrapped up with some more ambitious academically-affiliated projects and then I started my sophomore year early in May of 2022 and focused primarily on typographic and explorative digital work during the summer.
+
+* * * 
+
+## ... and what were we expecting to find down there?
+Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media.
+
+![Plinko](https://i.imgur.com/Auj4zys.jpg)
+
+* * *
+
+## Russian Culture Club Merchandise
+I was actively involved in UF's Russian Culture Club and was given the chance to create a new design for some cool merch. This design was printed on a few dozen crewneck sweatshirts. It depicts the words "Russian Club", with a firebird -- a common mythical creature in Slavic folklore.
+
+![Firebird Merch](https://i.imgur.com/cTvFNbj.png)
+
+* * *
+
+## What I Can Touch
+This poster was part of the advertising campaign for the 2022 WARPhaus spring exhibition. The social media post version can be found [here](https://www.instagram.com/p/CcMADi6lukd/?igshid=MDJmNzVkMjY=).
+
+![What I Can Touch](https://i.imgur.com/sW63sFV.png)
 
 * * * 
 
