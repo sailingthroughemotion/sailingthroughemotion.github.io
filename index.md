@@ -10,9 +10,10 @@ I have been drawing for as long as I can remember myself, constantly itching to 
 
 # Archive
 
-* [Pre-UF Academic Work](./preuf.html)
+* [Pre-UF Work](./preuf.html)
 * [2021 Undergraduate Work](./undergraduate21-22.html)
 * [2022 Undergraduate Work](./undergraduate22-23.html)
+* [Personal Work](./personal.html)
 
 # Contact Me
 
