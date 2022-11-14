@@ -10,9 +10,9 @@ I have been drawing for as long as I can remember myself, constantly itching to 
 
 # Archive
 
-* [2021 Undergraduate Work](./undergraduate21.html)
-* [2022 Undergraduate Work](./undergraduate22.html)
-* [Personal Work](./personal.html)
+* [2021 Undergraduate Work](./main_undergraduate21.html)
+* [2022 Undergraduate Work](./main_undergraduate22.html)
+* [Personal Work](./main_personal.html)
 
 # Contact Me
 
