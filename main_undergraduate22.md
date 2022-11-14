@@ -9,7 +9,7 @@ layout: default
 * * * 
 
 ## ... and what were we expecting to find down there?
-Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media.
+Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media. [Click here to see the process.](./process_aversinger.html)
 
 ![Plinko](https://i.imgur.com/Auj4zys.jpg)
 
