@@ -48,5 +48,11 @@ The _Uma Musume: Pretty Derby_ took a good hold on me during the summer of 2022 
 
 ![Fanart](https://i.imgur.com/RcKsQGM.png)
 
+* * *
+
+## Miki Hoshii Fan-Art
+Using the character from the Japanese property _Idolm@ster_ as a jumping off point, I worked to push my color-picking cel-shading technique even further than before, adding as many vibrant tones as possible to more vividly describe the shapes without the usual dullness of layer blending modes that generally rely on very monotone schemes.
+
+![Fanart](https://i.imgur.com/1PfVvcd.jpg)
 
 [back](./)
