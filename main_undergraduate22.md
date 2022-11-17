@@ -53,7 +53,7 @@ For a small college town, Gainesville has pretty much everything a casual citize
 ## T1D: All the Things They Never Told Me
 When prompted to create an "instructional zine", I struggled to come up with something that I could definitively say I specialized in. However, there is one thing that I've had a wealth of personal experience with -- my own type one diabetes. Click the image below to see the full zine.
 
-[![T1D](https://i.imgur.com/UlmIA14.png)](https://indd.adobe.com/view/b5a66ab3-e52f-4719-a6d6-81f616d7c024)
+[![T1D](https://i.imgur.com/8vqCfxw.png)](https://indd.adobe.com/view/b5a66ab3-e52f-4719-a6d6-81f616d7c024)
 
 
 
