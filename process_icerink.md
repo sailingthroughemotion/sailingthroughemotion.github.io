@@ -8,6 +8,6 @@ layout: default
 
 ![Process Sketches](https://i.imgur.com/zNoywDh.png)
 
-![Process Screenshots](https://i.imgur.com/h87CfRZ.png)
+![Process Screenshots](https://i.imgur.com/N0PPd12.png)
 
 [back](./main_undergraduate22.html)
