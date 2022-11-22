@@ -9,7 +9,7 @@ layout: default
 * * * 
 
 ## ... and what were we expecting to find down there?
-Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media. [Click here to learn more about the process.](./process_averysinger.md)
+Drawing from Avery Singer's contemporary themes of meme culture and odd, tiled spaces, this digital painting is an ode to the absurdist tumblr meme of the [plinko horse](https://knowyourmeme.com/memes/horse-plinko), and the nature of habitual, endless scrolling of social media. [Click here to take a look into the creation process.](./process_averysinger.md)
 
 ![Plinko](https://i.imgur.com/Auj4zys.jpg)
 
@@ -44,7 +44,7 @@ What started as a simple exercise to showcase Photoshop's masking and filter cap
 * * *
 
 ## Gainesville Ice Arena
-For a small college town, Gainesville has pretty much everything a casual citizen could wish for. However, spoiled by most of our life having been spent in large cities, it's a shame that we don't have an ice rink -- it would be a nice change of pace during the overbearing Florida summer. This isn't a real event, but it would certainly be nice. [Click here to learn more about the process.](./process_icerink.md)
+For a small college town, Gainesville has pretty much everything a casual citizen could wish for. However, spoiled by most of our life having been spent in large cities, it's a shame that we don't have an ice rink -- it would be a nice change of pace during the overbearing Florida summer. This isn't a real event, but it would certainly be nice. [Click here to take a look into the creation process.](./process_icerink.md)
 
 ![Gainesville Ice Arena](https://i.imgur.com/Qf8xskz.png)
 
