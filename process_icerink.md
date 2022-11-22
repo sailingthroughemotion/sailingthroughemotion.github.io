@@ -4,7 +4,9 @@ layout: default
 
 # "Gainesville Ice Arena"
 
-![Moodboard](https://i.imgur.com/FNnZaNw.png)
+![Moodboard](https://i.imgur.com/b0JMEWc.jpg)
+
+![Style Guide](https://i.imgur.com/H1RcAS7.jpg)
 
 ![Process Sketches](https://i.imgur.com/zNoywDh.png)
 
