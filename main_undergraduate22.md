@@ -23,7 +23,7 @@ I was actively involved in UF's Russian Culture Club and was given the chance to
 * * *
 
 ## What I Can Touch
-This poster was part of the advertising campaign for the 2022 WARPhaus spring exhibition. The social media post version can be found [here](https://www.instagram.com/p/CcMADi6lukd/?igshid=MDJmNzVkMjY=).
+This poster was part of the advertising campaign for the 2022 WARPhaus spring exhibition. The social media post version can be found [here](https://www.instagram.com/p/CcOE29OOuhr/).
 
 ![What I Can Touch](https://i.imgur.com/sW63sFV.png)
 
