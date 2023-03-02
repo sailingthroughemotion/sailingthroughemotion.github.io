@@ -55,7 +55,7 @@ When prompted to create an "instructional zine", I struggled to come up with som
 
 [![T1D](https://i.imgur.com/8vqCfxw.png)](https://indd.adobe.com/view/b5a66ab3-e52f-4719-a6d6-81f616d7c024)
 
-
+* * *
 
 [back](./)
 
