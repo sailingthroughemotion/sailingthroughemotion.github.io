@@ -32,4 +32,6 @@ Another project which touched on personal interests and concerns, we were given 
 
 ![Radfem Poster](https://i.imgur.com/byxO5Zj.jpg)
 
+* * *
+
 [back](./)
