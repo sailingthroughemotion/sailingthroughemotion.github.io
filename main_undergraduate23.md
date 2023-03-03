@@ -17,5 +17,13 @@ Although my schedule prevented me from participating in any club activities my s
 
 * * *
 
+## The Titanic Comedy Open Mic
+This was a commissioned work of a promotional flyer for a comedy event. In creating advertisements for social media, I am a strong contender for striking people's curiousity to swipe through image sets by creating an interesting "hook" as a cover image.
+
+![cover](https://i.imgur.com/bUkf3HM.png)
+![info](https://i.imgur.com/ll58DNV.png)
+
+* * *
+
 [back](./)
 
