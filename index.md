@@ -6,6 +6,8 @@ layout: default
 
 I have been drawing for as long as I can remember myself, constantly itching to re-create and embellish the things around me. From the bold simplicity of corporate fonts to the eccentric figures of animated characters, there isn't one thing that we see as media that design hasn't touched, and there isn't one thing that I don't want to sink my hands into.
 
+What is "paccvetbl"? Read in cyrillic, рассветы means "sunrises". They're something to look forward to.
+
 [Click here to download my resume.](https://drive.google.com/uc?export=download&id=144HQDMpjsvQxfHBvKlN8Fs-ID0YF9Ejl)
 
 
