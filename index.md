@@ -19,7 +19,7 @@ I have been drawing for as long as I can remember myself, constantly itching to 
 
 |E-Mail                  |Instagram                                        |
 |:-----------------------|:------------------------------------------------|
-|ulianachem2021@gmail.com|[paccvetbl](https://www.instagram.com/paccvetbl/)|
+|paccvetbl@gmail.com|[paccvetbl](https://www.instagram.com/paccvetbl/)|
 
 |Noun Project                                        |
 |:---------------------------------------------------|
