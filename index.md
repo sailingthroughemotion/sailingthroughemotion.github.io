@@ -4,11 +4,11 @@ layout: default
 
 # About Me
 
-*Why graphic design?
+*Why graphic design?*
 
 It is one thing to be able to draw to depict, but what does it mean to truly have a good eye? To pick up on the evocative elements of a composition without so much as touching the subject matter is such a magical moment — to be able to recognize not why we’re looking, but why we looked. So, then — how could it not be graphic design?
 
-*What is "paccvetbl"? 
+*What is "paccvetbl"?* 
 
 Read in cyrillic, рассветы means "sunrises". They're something to look forward to.
 
