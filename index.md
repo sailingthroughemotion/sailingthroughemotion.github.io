@@ -29,4 +29,4 @@ Read in cyrillic, рассветы means "sunrises". They're something to look f
 
 |Noun Project                                        |
 |:---------------------------------------------------|
-|[● ✖ ■](https://thenounproject.com/ulianachem2021/)|
+|[● ✖ ■](https://thenounproject.com/paccvetbl/)|
