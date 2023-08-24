@@ -12,7 +12,7 @@ It is one thing to be able to draw to depict, but what does it mean to truly hav
 
 Read in cyrillic, рассветы means "sunrises". They're something to look forward to.
 
-[Click here to download my resume.](https://drive.google.com/uc?export=download&id=144HQDMpjsvQxfHBvKlN8Fs-ID0YF9Ejl)
+[>>> Click here to download my resume. <<<](https://drive.google.com/uc?export=download&id=144HQDMpjsvQxfHBvKlN8Fs-ID0YF9Ejl)
 
 
 # Archive
