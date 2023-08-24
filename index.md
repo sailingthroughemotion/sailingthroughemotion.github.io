@@ -20,7 +20,7 @@ Read in cyrillic, рассветы means "sunrises". They're something to look f
 * [2021 Undergraduate Work](./main_undergraduate21.html)
 * [2022 Undergraduate Work](./main_undergraduate22.html)
 * [2023 Undergraduate Work](./main_undergraduate23.html)
-* |[● ✖ ■](https://thenounproject.com/paccvetbl/)|
+* [● ✖ ■](https://thenounproject.com/paccvetbl/)
 
 # Contact Me
 
