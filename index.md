@@ -24,7 +24,7 @@ Read in cyrillic, рассветы means "sunrises". They're something to look f
 
 # Contact Me
 
-|E-Mail                  |Telegram                |
-|:-----------------------|:-----------------------|
-|paccvetbl@gmail.com|@paccvetbl|
+|Telegram                |
+|:-----------------------|
+|@yanavik87111|
 
