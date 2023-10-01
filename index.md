@@ -1,4 +1,4 @@
-![image](https://github.com/sailingthroughemotion/sailingthroughemotion.github.io/assets/114431890/6502f3f4-3a92-42cd-a3bf-42e3ff45c58a)---
+---
 layout: default
 ---
 
