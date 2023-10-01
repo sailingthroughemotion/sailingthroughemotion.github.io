@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2022
+# 2023
 
 ### The second semester of my sophomore year, with a gracious schedule, I was able to invest more time into my specialty with an initial focus into client work.
 
