@@ -6,7 +6,7 @@ layout: default
 
 *Who are you?*
 
-I’m a freelance graphic designer and digital artist currently pursuing a Bachelor of Fine Arts in Graphic Design at the University of Florida. At present, I’m on my third year of study. In addition to the formal academic degree, I am working on obtaining a certification from Marc Brunet’s “ART School”.
+I’m a freelance graphic designer and digital artist currently pursuing a Bachelor of Fine Arts in Graphic Design at the University of Florida. At present, I’m on my third year of study. In addition to the formal academic degree, I am working on obtaining a certification from Marc Brunet’s [ART School](http://cbr.sh/eqcb55).
 
 *Why graphic design?*
 
