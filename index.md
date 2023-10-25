@@ -22,7 +22,7 @@ It is one thing to be able to draw to depict, but what does it mean to truly hav
 
 # Contact Me
 
-|Telegram                |E-Mail                |
-|:-----------------------|----------------------|
-|@yanavik87111           |yanavik87111@gmail.com|
+|E-Mail                     |Instagram |
+|---------------------------|----------|
+|sweetlikethestorm@gmail.com|@dv0rnyaga|
 
