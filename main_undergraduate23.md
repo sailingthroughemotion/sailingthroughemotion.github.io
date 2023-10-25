@@ -4,7 +4,7 @@ layout: default
 
 # 2023
 
-### The second semester of my sophomore year, with a gracious schedule, I was able to invest more time into my specialty with an initial focus into client work.
+### During the second semester of my sophomore year, with a gracious schedule, I was able to invest more time into my specialty with an initial focus into client work. Approximately June through September, I worked at the University of Florida's Innovation Academy as their Student Assistant graphic designer, giving me a lot of experience working within strict brand guidelines and a fast-paced environment. The first semester of my junior year, I was enriched once more into multiple graphic design studios where I could stretch my creative muscles in typography and branding exercises.
 
 * * * 
 
@@ -24,6 +24,21 @@ This was a commissioned work of a promotional flyer for a comedy event. In creat
 ![info](https://i.imgur.com/ll58DNV.png)
 
 * * *
+
+## University of Florida Innovation Academy
+The following were newly-innovated designs that were rejected for publishing.
+
+![Imgur](https://i.imgur.com/M6ncM0f.png)
+![Imgur](https://i.imgur.com/CqTlOsS.png)
+
+Examples of published posts can still be found on the Innovation Academy's Instagram: [o](https://www.instagram.com/p/CtRcweQrMo1/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) [o](https://www.instagram.com/p/Cum20PVRpfI/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) [o](https://www.instagram.com/p/Cw0lM3sJo9Y/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) [o](https://www.instagram.com/p/CxnbodCrRSE/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) [o](https://www.instagram.com/p/Cy0tOHNLOjh/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+
+* * *
+
+## Damned If I Do
+This was a semi-autobiographical project with the prompt to combine two disparate texts. In this case, the two passages were a few lines from Zemfira's *Hochesh*, which, rougly translated, read: "Please don't die, or I'll have to, too. You'll of course go straight to heaven, but I'm not sure that I will, too." and [Twitter users's SICKOFWOLVES poignant post](https://twitter.com/SICKOFWOLVES/status/1356294995246940160).
+
+![Imgur](https://i.imgur.com/Lj9zJVe.jpg)
 
 [back](./)
 
