@@ -41,7 +41,7 @@ Examples of published posts can still be found on the Innovation Academy's Insta
 
 Students were tasked with creating six logotypes for six different businesses comprising of the same two last names. For an extra challenge, I decided to have half be in cyrillic (top). Click here to see them up close.
 
-[Imgur](https://i.imgur.com/uypdygE.png)
+![Imgur](https://i.imgur.com/uypdygE.png)
 
 
 * * *
