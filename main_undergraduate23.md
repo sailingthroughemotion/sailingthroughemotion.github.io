@@ -4,7 +4,9 @@ layout: default
 
 # 2023
 
-### During the second semester of my sophomore year, with a gracious schedule, I was able to invest more time into my specialty with an initial focus into client work. Approximately June through September, I worked at the University of Florida's Innovation Academy as their Student Assistant graphic designer, giving me a lot of experience working within strict brand guidelines and a fast-paced environment. The first semester of my junior year, I was enriched once more into multiple graphic design studios where I could stretch my creative muscles in typography and branding exercises.
+### During the second semester of my sophomore year, with a gracious schedule, I was able to invest more time into my specialty with an initial focus into client work. 
+
+### The first semester of my junior year, I was enriched once more into multiple graphic design studios where I could stretch my creative muscles in typography and branding exercises.
 
 * * * 
 
