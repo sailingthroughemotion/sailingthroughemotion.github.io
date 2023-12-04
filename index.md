@@ -15,9 +15,9 @@ It is one thing to be able to draw to depict, but what does it mean to truly hav
 
 # Archive
 
-* [2021 Undergraduate Work](./main_undergraduate21.html)
-* [2022 Undergraduate Work](./main_undergraduate22.html)
-* [2023 Undergraduate Work](./main_undergraduate23.html)
+* [2021](./main_undergraduate21.html)
+* [2022](./main_undergraduate22.html)
+* [2023](./main_undergraduate23.html)
 * [● ✖ ■](https://thenounproject.com/paccvetbl/)
 
 # Contact Me
