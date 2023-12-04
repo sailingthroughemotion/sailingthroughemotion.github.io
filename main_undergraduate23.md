@@ -51,5 +51,7 @@ This was a semi-autobiographical project with the prompt to combine two disparat
 
 ![Imgur](https://i.imgur.com/Lj9zJVe.jpg)
 
+* * *
+
 [back](./)
 
