@@ -37,6 +37,15 @@ Examples of published posts can still be found on the Innovation Academy's Insta
 
 * * *
 
+## Ampersand
+
+Students were tasked with creating six logotypes for six different businesses comprising of the same two last names. For an extra challenge, I decided to have half be in cyrillic (top). Click here to see them up close.
+
+[Imgur](https://i.imgur.com/uypdygE.png)
+
+
+* * *
+
 ## Damned If I Do
 This was a semi-autobiographical project with the prompt to combine two disparate texts. In this case, the two passages were a few lines from Zemfira's *Hochesh*, which, rougly translated, read: "Please don't die, or I'll have to, too. You'll of course go straight to heaven, but I'm not sure that I will, too." and [Twitter users's SICKOFWOLVES poignant post](https://twitter.com/SICKOFWOLVES/status/1356294995246940160).
 
