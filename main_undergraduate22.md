@@ -50,6 +50,15 @@ For a small college town, Gainesville has pretty much everything a casual citize
 
 * * *
 
+## Lunatic Lesbians Anonymous
+Just a personal creative exercise, imagining a fun congregation of fellow lesbians with eclectic interests.
+
+![Imgur](https://i.imgur.com/CWu9EU4.jpg)
+
+* * *
+
 [back](./)
+
+
 
 
