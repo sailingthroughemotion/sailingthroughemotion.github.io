@@ -6,7 +6,6 @@ layout: default
 
 ![Imgur](https://i.imgur.com/BfZcHJt.png)
 ![Imgur](https://i.imgur.com/g0u3av6.png)
-![Imgur](https://i.imgur.com/dSlEga6.png)
 ![Imgur](https://i.imgur.com/tb71tra.png)
 ![Imgur](https://i.imgur.com/6TkqVPl.png)
 ![Imgur](https://i.imgur.com/2uGMHiK.png)
