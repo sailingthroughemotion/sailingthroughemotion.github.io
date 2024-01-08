@@ -54,7 +54,7 @@ This was a semi-autobiographical project with the prompt to combine two disparat
 * * *
 
 ## Recur
-Over the course of my fall semester, my Digital Visualization professor tasked us with working on one comprehensive branding project. "Project Recur" is a make-believe animation project / visual novel set in a fantasy world. Click [here](/.detail-recur.md) to see process work and final mock-ups.
+Over the course of my fall semester, my Digital Visualization professor tasked us with working on one comprehensive branding project. "Project Recur" is a make-believe animation project / visual novel set in a fantasy world. Click [here](./detail-recur.md) to see process work and final mock-ups.
 
 ![Imgur](https://i.imgur.com/jtK8GN0.png)
 
