@@ -6,7 +6,7 @@ layout: default
 
 *Who are you?*
 
-I’m a freelance graphic designer and digital artist currently pursuing a Bachelor of Fine Arts in Graphic Design at the University of Florida. At present, I’m on my third year of study. In addition to the formal academic degree, I am working on obtaining a certification from Marc Brunet’s [ART School](http://cbr.sh/eqcb55).
+I’m a freelance graphic designer and digital artist currently pursuing a Bachelor of Fine Arts in Graphic Design at the University of Florida. In addition to the formal academic degree, I am working on obtaining a certification from Marc Brunet’s [ART School](http://cbr.sh/eqcb55).
 
 *Why graphic design?*
 
@@ -19,6 +19,10 @@ It is one thing to be able to draw to depict, but what does it mean to truly hav
 * [2022](./main_undergraduate22.html)
 * [2023](./main_undergraduate23.html)
 * [● ✖ ■](https://thenounproject.com/paccvetbl/)
+
+# Development Blog
+
+* Untitled Visual Novel
 
 # Contact Me
 
