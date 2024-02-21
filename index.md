@@ -23,7 +23,7 @@ It is one thing to be able to draw to depict, but what does it mean to truly hav
 
 # Development Blog
 
-* [Untitled Visual Novel](./untitled_vn2024.md)
+* [Untitled Visual Novel](./dev_untitled_vn2024.md)
 
 # Contact Me
 
