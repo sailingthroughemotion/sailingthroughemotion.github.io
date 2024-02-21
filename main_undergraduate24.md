@@ -12,7 +12,7 @@ layout: default
 
 This was a project intended to challenge students in their branding capabilities, as well as making a mock-up in Adobe Dimension. Along with that, I took it as an opportunity to explore hand-drawn type. [Click here to take a look into the design process.](./process_doylegrove.md)
 
-![Can](https://imgur.com/zYSRYTy)
+![Can](https://i.imgur.com/zYSRYTy.png)
 
 * * *
 
