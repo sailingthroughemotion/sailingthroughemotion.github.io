@@ -16,5 +16,13 @@ This was a project intended to challenge students in their branding capabilities
 
 * * *
 
+## UF Russian Culture Club Merchandise
+
+Returning for my third year in a row, and with a decided theme of Space Race propaganda posters, this was the 2024 iteration of the club's merchandise -- available on shirts and bumper stickers. [Click here to take a look at some variations.](./detail_russianclub24.md)
+
+![Imgur](https://i.imgur.com/qE1UUpQ.png)
+
+* * *
+
 [back](./)
 
