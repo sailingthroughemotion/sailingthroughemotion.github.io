@@ -24,5 +24,14 @@ Returning for my third year in a row, and with a decided theme of Space Race pro
 
 * * *
 
+## SAW Emerging Artists Residency Skill Share
+
+As part of my residency, it was mandatory that I contribute some sort of public offering -- be it a workshop, a demo, or a studio tour. Given my extensive experience, I decided to do a skill-share on Adoobe Illustrator. Participants would follow along as we made an illustration together, getting accustomed to the overall layout and functions of basic (but nevertheless extremely useful!) tools.
+
+![Imgur](https://i.imgur.com/W18OEp4.png)
+![Imgur](https://i.imgur.com/jVSgGqa.png)
+
+* * *
+
 [back](./)
 
