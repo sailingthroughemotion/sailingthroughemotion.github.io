@@ -1,8 +1,6 @@
 title: ART & DESIGN
 logo: https://i.imgur.com/8A3pOwN.png
 description: This is a test to see if this value will override the GitHub one. 
-
-This is also a test for paragraphs.
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
