@@ -54,7 +54,9 @@ layout: default
 ## What I Can Touch -- Print + Social Media Advertising 
 
 ![Imgur](https://i.imgur.com/sW63sFV.png)
-![Imgur](https://i.imgur.com/uB0dA69.png)![Imgur](https://i.imgur.com/yj6DbpM.png)
+
+<img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:300px; height:300px;">
+<img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:300px; height:300px;">
 
 * * *
 
