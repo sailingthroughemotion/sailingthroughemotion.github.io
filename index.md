@@ -57,8 +57,8 @@ layout: default
 
 ![Imgur](https://i.imgur.com/sW63sFV.png)
 <p align="center">
- <img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:235px; height:235px;">
- <img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:235px; height:235px;">
+ <img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:245px; height:245px;">
+ <img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:245px; height:245px;">
 </p>
 
 * * *
