@@ -4,7 +4,7 @@ layout: default
 
 ## PVABRA -- eBay Store Branding
 
-![Imgur](https://i.imgur.com/U1Gm587.png){: style="width:300px; height:300px;"}
+<img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:300px; height:300px;">
 ![Imgur](https://i.imgur.com/yU53AUk.png)
 
 * * *
