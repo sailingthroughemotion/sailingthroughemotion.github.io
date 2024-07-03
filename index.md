@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# YANAVIK: Art & Design
+
 ## PVABRA -- eBay Store Branding
 
 <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:300px; height:300px;">
@@ -55,8 +57,8 @@ layout: default
 
 ![Imgur](https://i.imgur.com/sW63sFV.png)
 
-<img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:100px; height:100px;">
-<img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:100px; height:100px;">
+<img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:200px; height:200px;">
+<img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:200px; height:200px;">
 
 * * *
 
