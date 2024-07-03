@@ -6,16 +6,16 @@ layout: default
 
 ## PVABRA -- eBay Store Branding
 
-<img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:300px; height:300px;">
-
-![Imgur](https://i.imgur.com/yU53AUk.png)
+![Imgur](https://i.imgur.com/UvISPme.png)
 
 * * *
 
 ## SAW (Sequential Artists Workshop) Skillshare -- Announcement + Demo 2024
 
-![Imgur](https://i.imgur.com/W18OEp4.png)
-![Imgur](https://i.imgur.com/jVSgGqa.png)
+<p align="center">
+ <img src="https://i.imgur.com/W18OEp4.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width:248px; height:299px;">
+</p>
 
 * * *
 
