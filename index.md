@@ -14,7 +14,7 @@ layout: default
 
 <p align="center">
  <img src="https://i.imgur.com/W18OEp4.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width:248px; height:299px;">
+ <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width:205px; height:248px;">
 </p>
 
 * * *
