@@ -1,11 +1,11 @@
 title: yanavik.art
 logo: 
 description: >
-This is placeholder text.
+this is placeholder text 
 
-I am trying to make sure that I am able to place multiple lines in this section without breaking anything.
+this is also placeholder text
 
-Here is another one for good measure.
+please do not fall apart.
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
