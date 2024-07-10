@@ -8,6 +8,41 @@ layout: default
 
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
+<style>
+  /* Please keep in mind I am absolutely making this shit up as I go.
+  /* CSS for layout and styling */
+  .container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+    max-width: 496px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center the container horizontally */
+    border: 1px solid #ccc; /* Optional: add a border for visual separation */
+    padding: 10px; /* Optional: add padding for space inside the container */
+  }
+
+  .image {
+    flex: 1 1 50%; /* Image DOES grow AND shrink */
+    margin-right: 10px; /* Space between image and text */
+  }
+
+  .text {
+    flex: 1; /* Text fills remaining space */
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="image">
+    <img src="https://i.imgur.com/U1Gm587.png">
+  </div>
+  <div class="text">
+    <p>This is placeholder text for the time-being to see how badly I screwed this up.</p>
+  </div>
+</div>
+
+</body>
+
 * * *
 
 ## SAW (Sequential Artists Workshop) Skillshare -- Announcement + Demo 2024
