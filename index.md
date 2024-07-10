@@ -21,8 +21,10 @@ layout: default
 
 ## UF Russian Culture Club -- Merchandise 2024
 
-![Imgur](https://i.imgur.com/ZwMmtb9.png)
-![Imgur](https://i.imgur.com/aCGCCjV.png)
+<p align="center">
+  <img src="https://i.imgur.com/ZwMmtb9.png" alt="Imgur" style="width:248px; height:338px;">
+  <img src="https://i.imgur.com/aCGCCjV.png" alt="Imgur" style="width:248px; height:338px;">
+</p>
 
 * * *
 
