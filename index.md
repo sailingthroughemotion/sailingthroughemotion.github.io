@@ -9,7 +9,7 @@ layout: default
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
 <body>
- <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; max-width: 240px;">
+ <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; max-width: 225px;">
  <p style="display: inline-block; width: 50%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat neque nec justo mattis pretium. Here is some more placeholder text because boy howdy I can tell you that I am absolutely tweaking right now and I also want to know at what point this stops working properly.</p>
 </body>
 
