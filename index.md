@@ -8,8 +8,10 @@ layout: default
 
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
-<img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; vertical-align: top; width: 50%; max-width: 200px;">
-<p style="display: inline-block; vertical-align: top; width: 50%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat neque nec justo mattis pretium.</p>
+<body>
+ <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; max-width: 200px;">
+ <p style="display: inline-block; width: 50%;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec placerat neque nec justo mattis pretium.</p>
+</body>
 
 * * *
 
