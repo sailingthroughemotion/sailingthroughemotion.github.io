@@ -1,9 +1,6 @@
 title: yanavik.art
 logo: 
-description: >
-  This is placeholder text.
-  It would be great if it worked.
-  I'm not sure what I'm doing wrong.
+description: "**This is placeholder text.<br>It would be great if it worked.<br>I'm not sure what I'm doing wrong.**"
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
