@@ -8,6 +8,7 @@ layout: default
 
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
+<head>
 <style>
   /* Please keep in mind I am absolutely making this shit up as I go.
   /* CSS for layout and styling */
