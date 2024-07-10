@@ -10,7 +10,7 @@ layout: default
 
 <div class="container">
   <div class="image">
-    <img src="https://i.imgur.com/U1Gm587.png">
+    <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:248px; height:248px;">
   </div>
   <div class="text">
     <p>This is placeholder text for the time-being to see how badly I screwed this up.</p>
