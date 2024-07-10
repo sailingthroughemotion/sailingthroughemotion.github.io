@@ -8,14 +8,11 @@ layout: default
 
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
-<div class="container">
-  <div class="image">
-    <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:240px; height:240px;">
-  </div>
-  <div class="text">
-    <p style="width:240px; height:240px;">This is placeholder text for the time-being to see how badly I screwed this up.</p>
-  </div>
-</div>
+<p> 
+  <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:240px; height:240px;">
+</p>
+
+<p style="width:240px; height:240px;">This is placeholder text for the time-being to see how badly I screwed this up.</p>
 
 * * *
 
