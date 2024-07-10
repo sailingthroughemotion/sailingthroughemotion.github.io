@@ -1,10 +1,11 @@
 title: yanavik.art
 logo: 
 description: >
- please stop breaking
+  please stop breaking
+  
   i beg of you please stop breaking
 
- this is just placeholder text i promise i am talking about the website
+  this is just placeholder text i promise i am talking about the website
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
