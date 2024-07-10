@@ -13,7 +13,7 @@ layout: default
     <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="width:248px; height:248px;">
   </div>
   <div class="text">
-    <p style="width:248px; height:248px;">This is placeholder text for the time-being to see how badly I screwed this up.</p>
+    <p>This is placeholder text for the time-being to see how badly I screwed this up.</p>
   </div>
 </div>
 
