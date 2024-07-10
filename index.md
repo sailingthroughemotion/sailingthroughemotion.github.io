@@ -37,7 +37,9 @@ The vector illustration is an original design.
   <img src="https://i.imgur.com/aCGCCjV.png" alt="Imgur" style="width:248px; height:338px;">
 </p>
 
-Reprising my unofficial role as the merchandise designer for the UF Russian Culture Club for the third year in a row, the club's executive team and I came together to present these two Soviet space race-themed designs for our fellow members. _Although the final illustrattion here appears as black on white, the final product was a white design on a black T-shirt, but it is presented in its initial black on white iteration for better screen legibility._
+Reprising my unofficial role as the merchandise designer for the UF Russian Culture Club for the third year in a row, the club's executive team and I came together to present these two Soviet space race-themed designs for our fellow members. 
+
+_Although the final illustrattion here appears as black on white, the final product was a white design on a black T-shirt, but it is presented in its initial black on white iteration for better screen legibility._
 
 This design features original and referenced hand-drawn illustrations, as well as original hand lettering.
 
@@ -47,7 +49,9 @@ This design features original and referenced hand-drawn illustrations, as well a
 
 ![Imgur](https://i.imgur.com/aNA5QAd.jpg)
 
-[Click here](https://www.tedxuf.com) to learn more about TEDxUF and the 2024 conference that these stickers were designed for. _Above is the final design that was sold to attendees. Below is the final illustrated draft that I presented._
+[Click here](https://www.tedxuf.com) to learn more about TEDxUF and the 2024 conference that these stickers were designed for. 
+
+_Above is the final design that was sold to attendees. Below is the final illustrated draft that I presented._
 
 ![Imgur](https://i.imgur.com/SCI1HGX.png)
 
@@ -67,6 +71,8 @@ This design features original and referenced hand-drawn illustrations.
 
 ![Imgur](https://i.imgur.com/bUkf3HM.png)
 
+This design features a referenced manually constructed vector illustration.
+
 When designing social media graphics, it is very important to balance both brevity and invitation to prolonged audience engagement. By creating a first "hook" illustratie image, we are able to pique the audience's curiosity, as well as establish a strong visual identity for the event. The actual informational image that follows holds all of the necessary details, which are easier for the audience to recall when paired with the initial memorable graphic.
 
 ![Imgur](https://i.imgur.com/ll58DNV.png)
@@ -80,7 +86,7 @@ When designing social media graphics, it is very important to balance both brevi
 
 The club's executive board and I decided that 2023's theme would be something light-hearted, yet still distinctly recognizable for almost any young adult that has grown up with Soviet and/or post-Soviet culture. As such, we decided to include characters from the Soviet cartoons "Just You Wait!" and "Cheburashka" on T-shirts and beanie hats, respectively.
 
-This design features referenced hand-drawn illustration.
+These designs feature referenced hand-drawn illustrations, as well as hand-drawn type referencing the style of the Cyrillic title of "Just You Wait".
 
 * * *
 
