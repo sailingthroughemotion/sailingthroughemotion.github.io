@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# YANAVIK: Art & Design
+# Design & Illustration
 
 ## PVABRA -- eBay Store Branding
 
