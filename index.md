@@ -8,7 +8,7 @@ layout: default
 
 ## UF Russian Culture Club -- Merchandise 2024/25
 
-![Imgur](https://i.imgur.com/ZqwexXc.png)
+![Imgur](https://i.imgur.com/59XSJGy.png)
 
 For my fourth and final year as a member of UF's Russian Culture Club, I created a design featuring two bears (common iconography associated with Slavic countries) playing a card game called "durak". 
 
