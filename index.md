@@ -2,7 +2,15 @@
 layout: default
 ---
 
+## UF Russian Culture Club -- Merchandise 2024/25
+
 # YANAVIK: Art & Design
+
+![Imgur](https://i.imgur.com/aNA5QAd.jpg)
+
+For my fourth and final year as a member of UF's Russian Culture Club, I created a design featuring two bears (common iconography associated with Slavic countries) playing a card game called "durak". 
+
+This design features original hand-drawn illustrations, as well as original hand lettering.
 
 ## PVABRA -- eBay Store Branding
 
@@ -30,8 +38,7 @@ The vector illustration is an original design.
 
 * * *
 
-## UF Russian Culture Club -- Merchandise 2024
-
+## UF Russian Culture Club -- Merchandise 2023/24
 <p align="center">
   <img src="https://i.imgur.com/ZwMmtb9.png" alt="Imgur" style="width:248px; height:338px;">
   <img src="https://i.imgur.com/aCGCCjV.png" alt="Imgur" style="width:248px; height:338px;">
@@ -79,7 +86,7 @@ When designing social media graphics, it is very important to balance both brevi
 
 * * *
 
-## UF Russian Culture Club -- Merchandise 2023
+## UF Russian Culture Club -- Merchandise 2022/23
 
 ![Imgur](https://i.imgur.com/1vadQ8T.png)
 ![Imgur](https://i.imgur.com/JmIFrLT.png)
@@ -106,7 +113,7 @@ This design features referenced manually constructed vector illustrations.
 
 * * *
 
-## UF Russian Culture Club -- Merchandise 2022
+## UF Russian Culture Club -- Merchandise 2021/22
 
 ![Imgur](https://i.imgur.com/cTvFNbj.png)
 
