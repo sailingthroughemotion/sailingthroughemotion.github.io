@@ -6,7 +6,7 @@ layout: default
 
 # YANAVIK: Art & Design
 
-![Imgur](https://i.imgur.com/aNA5QAd.jpg)
+![Imgur](https://i.imgur.com/ZqwexXc.png)
 
 For my fourth and final year as a member of UF's Russian Culture Club, I created a design featuring two bears (common iconography associated with Slavic countries) playing a card game called "durak". 
 
