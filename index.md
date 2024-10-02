@@ -10,7 +10,7 @@ layout: default
 
 <body>
  <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; max-width: 225px;">
- <p style="display: inline-block; width: 50%;">PVABRA is an eBay store primarily selling graphic terminals and other refurbished electronics. The main goal for this branding was to have something that is recognizable as relating to the electronics industry whiling remaining distinct from the branding of other similar eBay stores and graphic terminal manufacturers (particularly Allen Bradley).</p>
+ <p style="display: inline-block; width: 50%;">PVABRA is an eBay store primarily selling graphic terminals and other refurbished electronics. The main goal for this branding was to have something that is recognizable as relating to the electronics industry while remaining distinct from the branding of other similar eBay stores and graphic terminal manufacturers (particularly Allen Bradley).</p>
 </body>
 
 This design features referenced manually constructed vector illustrations.
