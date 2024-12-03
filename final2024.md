@@ -6,7 +6,11 @@ layout: default
 
 # "Anti-Belonging" Zine
 
+
+
 lorem ipsum text excuse me thank you
+
+
 
 <body>
  <img src="https://i.imgur.com/MwSTGku.jpg" alt="Imgur" style="display: inline-block; width: 225px; max-width: 50%;">
@@ -19,23 +23,23 @@ lorem ipsum text excuse me thank you
 </body>
 
 <p align="center">
- <img src="https://i.imgur.com/NzlmhhD.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/83evuGU.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/NzlmhhD.png" alt="Imgur" style="width:248px;">
+ <img src="https://i.imgur.com/83evuGU.png" alt="Imgur" style="width:248px;">
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/jcuqWi4.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/W3oQpCQ.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/jcuqWi4.png" alt="Imgur" style="width:248px;">
+ <img src="https://i.imgur.com/W3oQpCQ.png" alt="Imgur" style="width:248px;">
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/WywwFDf.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/ah7IwZL.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/WywwFDf.png" alt="Imgur" style="width:248px;">
+ <img src="https://i.imgur.com/ah7IwZL.png" alt="Imgur" style="width:248px;">
 </p>
 
 <p align="center">
- <img src="https://i.imgur.com/Jdbmwmg.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/CxoTm1V.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/Jdbmwmg.png" alt="Imgur" style="width:248px;">
+ <img src="https://i.imgur.com/CxoTm1V.png" alt="Imgur" style="width:248px;">
 </p>
 
 
