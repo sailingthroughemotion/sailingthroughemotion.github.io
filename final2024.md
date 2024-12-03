@@ -5,13 +5,13 @@ layout: default
 ![Imgur](https://i.imgur.com/KKhXXBw.jpg)
 
 # "Anti-Belonging" Zine
-
-
-
+&emsp;
+&emsp;
+&emsp;
 lorem ipsum text excuse me thank you
-
-
-
+&emsp;
+&emsp;
+&emsp;
 <body>
  <img src="https://i.imgur.com/MwSTGku.jpg" alt="Imgur" style="display: inline-block; width: 225px; max-width: 50%;">
  <p style="display: inline-block; width: 50%;">some more lorem ipsum text thank you very much this project is gonna be the death of me but maybe i'll get brownie points for this who knows :D</p>
