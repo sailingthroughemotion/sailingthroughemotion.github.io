@@ -9,8 +9,8 @@ layout: default
 There’s a lot of corporate offices, schools, grocery stores . . . anywhere and everywhere, you will find a place with a tagline along the lines of, “Where everyone belongs!” But it’s not that simple, is it? The Anti-Belonging zine is a miniature, distributable zine of illustrations and quotes that speak to those of us that end up on the sidelines of all of these hyper-positive, uber-inclusive initiatives, in the shape of encouragement, comfort, and affirmation. 
 
 <body>
- <img src="https://i.imgur.com/MwSTGku.jpg" alt="Imgur" style="display: inline-block; width: 225px; max-width: 50%;">
- <p style="display: inline-block; width: 50%;">In my exploration of this issue, I drew from both personal sources of my friends and the people around me that may consider themselves "loners" in some way, as well as from academic sources, to understand what communities really are, how they are meant to be stratified, and if these definitions align with current experiences.</p>
+ <img src="https://i.imgur.com/MwSTGku.jpg" alt="Imgur" style="display: inline-block; width: 225px; max-width: 50%; float: left; margin-right: 20px;">
+ <p style="display: inline-block; width: 50%;"><b>Every thoughtful project begins with at least a little bit of research.</b> In my exploration of this issue, I drew from both personal sources of my friends and the people around me that may consider themselves "loners" in some way, as well as from academic sources, to understand what communities really are, how they are meant to be stratified, and if these definitions align with current experiences.</p>
 </body>
 
 <body>
