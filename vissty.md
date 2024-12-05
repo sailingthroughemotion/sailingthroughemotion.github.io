@@ -38,28 +38,30 @@ I have to admit that this is placeholder text on a static web-page that is not a
 
 <style>
   /* Carousel container */
-  .carousel {
+.carousel {
     width: 100%;
     max-width: 600px; /* Set the maximum width of the carousel */
-    margin: 0 auto;
+    margin: 0 auto; /* Center the carousel horizontally */
     position: relative;
     overflow: hidden;
-  }
+}
 
-  /* Image wrapper for carousel */
-  .carousel-images {
+/* Image wrapper for carousel */
+.carousel-images {
     display: flex;
     transition: transform 0.5s ease-in-out;
-  }
+    align-items: center; /* Vertically center images within the container */
+}
 
-  /* Individual images */
-  .carousel-images img {
+/* Individual images */
+.carousel-images img {
     width: 100%;
     object-fit: contain;
-  }
+    /* Ensures the image covers the entire container without stretching */
+}
 
-  /* Previous and Next buttons */
-  .prev, .next {
+/* Previous and Next buttons */
+.prev, .next {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -69,15 +71,16 @@ I have to admit that this is placeholder text on a static web-page that is not a
     font-size: 2rem;
     padding: 10px;
     cursor: pointer;
-  }
+}
 
-  .prev {
+.prev {
     left: 10px;
-  }
+}
 
-  .next {
+.next {
     right: 10px;
-  }
+}
+
 </style>
 
 
