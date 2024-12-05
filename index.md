@@ -24,7 +24,8 @@ This design features original hand-drawn illustrations, as well as original hand
  <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; float: left;">
  <p style="display: inline-block; width: 50%; float: right;">PVABRA is an eBay store primarily selling graphic terminals and other refurbished electronics. The main goal for this branding was to have something that is recognizable as relating to the electronics industry while remaining distinct from the branding of other similar eBay stores and graphic terminal manufacturers (particularly Allen Bradley).</p>
 </body>
-
+<br>
+<br>
 This design features referenced manually constructed vector illustrations.
 
 * * *
@@ -33,9 +34,10 @@ This design features referenced manually constructed vector illustrations.
 
 <p align="center">
  <img src="https://i.imgur.com/W18OEp4.png" alt="Imgur" style="width: 50%; float: left;">
- <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width: 50%; float: right;">
+ <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width: 50%; height: 248px float: right;">
 </p>
-
+<br>
+<br>
 The [Sequential Artists Workshop](https://www.sequentialartistsworkshop.org) hosts a Gainesville-based emerging artists residency, primarily focused on the creation of different forms of sequential art (or simply put, comics). I was not only lucky enough to participate in their program, able to use their studio space at my leisure for creative endeavors, but I was also given the opportunity to host a community event. I demonstrated the tools and skills necessary to use (and get used to) Adobe Illustrator in a casual, hands-on manner as participatnts created their own rendition of the above rendering of a sardine can.
 
 The vector illustration is an original design.
