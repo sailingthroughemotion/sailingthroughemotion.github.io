@@ -56,7 +56,10 @@ I have to admit that this is placeholder text on a static web-page that is not a
 /* Individual images */
 .carousel-images img {
     width: 100%;
+    height: auto;
     object-fit: contain;
+    flex-shrink: 0; /* Prevents images from shrinking */
+    display: block; /* Ensures no space below the images */
     /* Ensures the image covers the entire container without stretching */
 }
 
