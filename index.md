@@ -31,9 +31,13 @@ This design features referenced manually constructed vector illustrations.
 
 ## SAW (Sequential Artists Workshop) Skillshare -- Announcement + Demo 2024
 
-<div style="display: flex; width: 100%; align-items: stretch;">
-  <img src="https://i.imgur.com/W18OEp4.png" style="width: 50%; height: 100%; object-fit: cover; margin-right: 20px;">
-  <img src="https://i.imgur.com/jVSgGqa.png" style="width: 50%; height: 100%; object-fit: cover;">
+<div style="display: flex; width: 100%; height: 100vh; align-items: stretch;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.imgur.com/W18OEp4.png" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.imgur.com/jVSgGqa.png" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
 </div>
 
 The [Sequential Artists Workshop](https://www.sequentialartistsworkshop.org) hosts a Gainesville-based emerging artists residency, primarily focused on the creation of different forms of sequential art (or simply put, comics). I was not only lucky enough to participate in their program, able to use their studio space at my leisure for creative endeavors, but I was also given the opportunity to host a community event. I demonstrated the tools and skills necessary to use (and get used to) Adobe Illustrator in a casual, hands-on manner as participatnts created their own rendition of the above rendering of a sardine can.
