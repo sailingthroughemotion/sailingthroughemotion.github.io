@@ -21,8 +21,8 @@ This design features original hand-drawn illustrations, as well as original hand
 ![Imgur](https://i.imgur.com/UvISPme.png)
 
 <body>
- <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 225px; max-width: 50%;">
- <p style="display: inline-block; width: 50%;">PVABRA is an eBay store primarily selling graphic terminals and other refurbished electronics. The main goal for this branding was to have something that is recognizable as relating to the electronics industry while remaining distinct from the branding of other similar eBay stores and graphic terminal manufacturers (particularly Allen Bradley).</p>
+ <img src="https://i.imgur.com/U1Gm587.png" alt="Imgur" style="display: inline-block; width: 50%; float: left;">
+ <p style="display: inline-block; width: 50%; float: right;">PVABRA is an eBay store primarily selling graphic terminals and other refurbished electronics. The main goal for this branding was to have something that is recognizable as relating to the electronics industry while remaining distinct from the branding of other similar eBay stores and graphic terminal manufacturers (particularly Allen Bradley).</p>
 </body>
 
 This design features referenced manually constructed vector illustrations.
@@ -32,8 +32,8 @@ This design features referenced manually constructed vector illustrations.
 ## SAW (Sequential Artists Workshop) Skillshare -- Announcement + Demo 2024
 
 <p align="center">
- <img src="https://i.imgur.com/W18OEp4.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width:205px; height:248px;">
+ <img src="https://i.imgur.com/W18OEp4.png" alt="Imgur" style="width: 50%; float: left;">
+ <img src="https://i.imgur.com/jVSgGqa.png" alt="Imgur" style="width: 50%; float: right;">
 </p>
 
 The [Sequential Artists Workshop](https://www.sequentialartistsworkshop.org) hosts a Gainesville-based emerging artists residency, primarily focused on the creation of different forms of sequential art (or simply put, comics). I was not only lucky enough to participate in their program, able to use their studio space at my leisure for creative endeavors, but I was also given the opportunity to host a community event. I demonstrated the tools and skills necessary to use (and get used to) Adobe Illustrator in a casual, hands-on manner as participatnts created their own rendition of the above rendering of a sardine can.
@@ -44,8 +44,8 @@ The vector illustration is an original design.
 
 ## UF Russian Culture Club -- Merchandise 2023/24
 <p align="center">
-  <img src="https://i.imgur.com/ZwMmtb9.png" alt="Imgur" style="width:248px; height:338px;">
-  <img src="https://i.imgur.com/aCGCCjV.png" alt="Imgur" style="width:248px; height:338px;">
+  <img src="https://i.imgur.com/ZwMmtb9.png" alt="Imgur" style="width: 50%; float: left;">
+  <img src="https://i.imgur.com/aCGCCjV.png" alt="Imgur" style="width: 50%; float: right">
 </p>
 
 Reprising my unofficial role as the merchandise designer for the UF Russian Culture Club for the third year in a row, the club's executive team and I came together to present these two Soviet space race-themed designs for our fellow members. 
@@ -105,8 +105,8 @@ These designs feature referenced hand-drawn illustrations, as well as hand-drawn
 
 ![Imgur](https://i.imgur.com/sW63sFV.png)
 <p align="center">
- <img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width:248px; height:248px;">
- <img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width:248px; height:248px;">
+ <img src="https://i.imgur.com/uB0dA69.png" alt="Imgur" style="width: 50%; float: left">
+ <img src="https://i.imgur.com/yj6DbpM.png" alt="Imgur" style="width: 50%; float: right">
 </p>
 
 I was tasked with creating marketing material for the annual UF WARPhaus spring exhibition, which showcases that semester's cohort's (generally comprised of freshmen) work. These showcases have proven to be grandiose and eclectic, with my cohort being no different. We presented pieces that explored the concept of materiality by means of both material and immaterial mediums and subjects.
