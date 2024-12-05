@@ -8,16 +8,88 @@ I have to admit that this is placeholder text on a static web-page that is not a
 
 <div class="carousel">
   <div class="carousel-images">
-    <img src="https://i.imgur.com/te1IBgh.png" alt="Image 1">
+    <img src="https://i.imgur.com/vFWmgHq.png" alt="Image 1">
     <img src="https://i.imgur.com/HibbMU1.png" alt="Image 2">
     <img src="https://i.imgur.com/vCLf6Gq.png" alt="Image 3">
-    <img src="https://i.imgur.com/jqcwuYO.png" alt="Image 4">
-    <img src="https://i.imgur.com/zf8C4cu.png" alt="Image 5">
-    <img src="https://i.imgur.com/Stj4X6U.png" alt="Image 6">
-    <img src="https://i.imgur.com/kKzyiCE.png" alt="Image 7">
-    <img src="https://i.imgur.com/npSD8jm.png" alt="Image 8">
-    <img src="https://i.imgur.com/C3J0Vhi.png" alt="Image 9">
-    <img src="https://i.imgur.com/5kVkVeM.png" alt="Image 10">
+    <img src="https://i.imgur.com/zf8C4cu.png" alt="Image 4">
+    <img src="https://i.imgur.com/kKzyiCE.png" alt="Image 5">
+    <img src="https://i.imgur.com/npSD8jm.png" alt="Image 6">
+    <img src="https://i.imgur.com/C3J0Vhi.png" alt="Image 7">
+    <img src="https://i.imgur.com/5kVkVeM.png" alt="Image 8">
+  </div>
+  <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
+  <button class="next" onclick="moveSlide(1)">&#10095;</button>
+</div>
+
+<script>
+  let index = 0;
+
+  function moveSlide(direction) {
+    const images = document.querySelectorAll('.carousel-images img');
+    const totalImages = images.length;
+    index = (index + direction + totalImages) % totalImages;  // Ensures looping
+
+    const offset = -index * 100;  // Shift the carousel images
+    document.querySelector('.carousel-images').style.transform = `translateX(${offset}%)`;
+  }
+</script>
+
+<style>
+  /* Carousel container */
+.carousel {
+    width: 100%;
+    max-width: 600px; /* Set the maximum width of the carousel */
+    margin: 0 auto; /* Center the carousel horizontally */
+    position: relative;
+    overflow: hidden;
+}
+
+/* Image wrapper for carousel */
+.carousel-images {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    align-items: center; /* Vertically center images within the container */
+}
+
+/* Individual images */
+.carousel-images img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    flex-shrink: 0; /* Prevents images from shrinking */
+    display: block; /* Ensures no space below the images */
+    /* Ensures the image covers the entire container without stretching */
+}
+
+/* Previous and Next buttons */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 2rem;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+</style>
+
+
+
+<div class="carousel">
+  <div class="carousel-images">
+    <img src="https://i.imgur.com/Stj4X6U.png" alt="Image 1">
+    <img src="https://i.imgur.com/jqcwuYO.png" alt="Image 2">
   </div>
   <button class="prev" onclick="moveSlide(-1)">&#10094;</button>
   <button class="next" onclick="moveSlide(1)">&#10095;</button>
