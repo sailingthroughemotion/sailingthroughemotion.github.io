@@ -13,7 +13,7 @@ I have to admit that this is placeholder text on a static web-page that is not a
     <img src="https://i.imgur.com/vCLf6Gq.png" alt="Image 3">
     <img src="https://i.imgur.com/jqcwuYO.png" alt="Image 4">
     <img src="https://i.imgur.com/zf8C4cu.png" alt="Image 5">
-    <img src="hhttps://i.imgur.com/Stj4X6U.png" alt="Image 6">
+    <img src="https://i.imgur.com/Stj4X6U.png" alt="Image 6">
     <img src="https://i.imgur.com/kKzyiCE.png" alt="Image 7">
     <img src="https://i.imgur.com/npSD8jm.png" alt="Image 8">
     <img src="https://i.imgur.com/C3J0Vhi.png" alt="Image 9">
