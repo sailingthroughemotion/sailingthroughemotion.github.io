@@ -36,7 +36,7 @@ This design features referenced manually constructed vector illustrations.
     <img src="https://i.imgur.com/W18OEp4.png" alt="Image 1" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
   <div style="flex: 1; display: flex; justify-content: center; align-items: stretch;">
-    <img src="ihttps://i.imgur.com/jVSgGqa.png" alt="Image 2" style="width: 100%; height: 100%; object-fit: contain;">
+    <img src="https://i.imgur.com/jVSgGqa.png" alt="Image 2" style="width: 100%; height: 100%; object-fit: contain;">
   </div>
 </div>
 
