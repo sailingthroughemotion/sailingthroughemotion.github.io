@@ -55,7 +55,7 @@ I have to admit that this is placeholder text on a static web-page that is not a
   /* Individual images */
   .carousel-images img {
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
   }
 
   /* Previous and Next buttons */
