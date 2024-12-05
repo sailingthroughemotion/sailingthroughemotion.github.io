@@ -31,7 +31,7 @@ This design features referenced manually constructed vector illustrations.
 
 ## SAW (Sequential Artists Workshop) Skillshare -- Announcement + Demo 2024
 
-<div style="display: flex; width: 100%; height: 100vh; align-items: stretch;">
+<div style="display: flex; width: 100%; align-items: stretch;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://i.imgur.com/W18OEp4.png" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
