@@ -6,6 +6,14 @@ layout: default
 
 * * *
 
+## Analyzing Stellar Modeling using TESS Asteroseismology: 134,901 Red Giant Ages -- Conference Poster
+
+![Imgur](https://i.imgur.com/ldExHzN.png)
+
+In another collaboration with Artemis Theodoridis, we put together a new poster summarizing her findings in a currently ongoing study.
+
+* * *
+
 ## UF Russian Culture Club -- Merchandise 2024/25
 
 ![Imgur](https://i.imgur.com/59XSJGy.png)
