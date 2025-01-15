@@ -10,7 +10,7 @@ layout: default
 
 ![Imgur](https://i.imgur.com/ldExHzN.png)
 
-In another collaboration with Artemis Theodoridis, we put together a new poster summarizing her findings in a currently ongoing study. It was selected as a potential finalist for the [2025 AAS](https://aas.org/meetings/aas245) Chambliss Poster Competition.
+In another collaboration with Artemis Theodoridis, we put together a new poster summarizing her findings in a currently ongoing study. It was selected as a potential finalist for the [245th AAS Meeting's](https://aas.org/meetings/aas245) Chambliss Poster Competition.
 
 * * *
 
