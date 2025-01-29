@@ -96,7 +96,7 @@ This design features original and referenced hand-drawn illustrations.
 
 This design features a referenced manually constructed vector illustration.
 
-When designing social media graphics, it is very important to balance both brevity and invitation to prolonged audience engagement. By creating a first "hook" illustratie image, we are able to pique the audience's curiosity, as well as establish a strong visual identity for the event. The actual informational image that follows holds all of the necessary details, which are easier for the audience to recall when paired with the initial memorable graphic.
+When designing social media graphics, it is very important to balance both brevity and invitation to prolonged audience engagement. By creating a first "hook" illustrated image, we are able to pique the audience's curiosity, as well as establish a strong visual identity for the event. The actual informational image that follows holds all of the necessary details, which are easier for the audience to recall when paired with the initial memorable graphic.
 
 ![Imgur](https://i.imgur.com/ll58DNV.png)
 
