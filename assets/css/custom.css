@@ -1,0 +1,11 @@
+.comfortaa {
+  font-family: "Comfortaa", serif;
+  font-weight: 400; /* Normal weight */
+  font-style: normal;
+}
+
+.comfortaa-bold {
+  font-family: "Comfortaa", serif;
+  font-weight: 700;  /* Bold weight */
+  font-style: normal;
+}
