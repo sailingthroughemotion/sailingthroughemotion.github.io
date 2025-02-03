@@ -1,5 +1,5 @@
 .comfortaa {
-  font-family: "Comfortaa", serif;
+  font-family: "Comfortaa", serif !important;
   font-weight: 400; /* Normal weight */
   font-style: normal;
 }
