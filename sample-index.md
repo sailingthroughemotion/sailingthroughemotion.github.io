@@ -15,5 +15,3 @@ _It could have multiple sections!_
 * [Link 1](./)
 * [Link 2](./)
 * [Link 3](./)
-
-[back](./)
