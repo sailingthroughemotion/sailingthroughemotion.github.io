@@ -5,13 +5,13 @@ nav:
   - title: HOME
     url: /
   - title: "2025"
-    url: /
+    url: /2025.md
   - title: "2024"
-    url: /
+    url: /2024.md
   - title: "2023"
-    url: /
+    url: /2023.md
   - title: "2022"
-    url: /
+    url: /2022.md
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
