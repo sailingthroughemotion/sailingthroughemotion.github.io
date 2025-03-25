@@ -23,7 +23,11 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+        
+        {% for item in site.nav %}
+          <a class="nav-item" href="{{ item.url }}">{{ item.title }}</a>
+        {% endfor %}
+        
        <ul>
         {% for link in site.external_links %}
           <li>
