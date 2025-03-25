@@ -24,9 +24,11 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        {% for item in site.nav %}
-          <a class="nav-item" href="{{ item.url }}">{{ item.title }}</a>
-        {% endfor %}
+        <ul style="list-style-type: none; padding-left: 0;">
+          {% for item in site.nav %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
         
        <ul>
         {% for link in site.external_links %}
