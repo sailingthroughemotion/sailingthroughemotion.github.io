@@ -2,21 +2,16 @@ title: yanavik.art
 logo: https://i.imgur.com/SpZMeHW.png
 description: "<br>I'm Uli and graphic design might be my passion. Feel free to shoot me an e-mail:<br><br><b>uvx@yanavik.art</b>"
 nav:
-  - title: Home
-    url: /
-  - title: About
+  - title: HOME
     url: /
   - title: "2025"
     url: /
   - title: "2024"
     url: /
-external_links:
-  - name: "Cara"
-    url: "https://cara.app/yanavik"
-    icon: "https://i.imgur.com/61IoPYd.png"
-  - name: "Bluesky"
-    url: "https://bsky.app/profile/yanavik.bsky.social"
-    icon: "https://i.imgur.com/jIVhqV3.png"
+  - title: "2023"
+    url: /
+  - title: "2022"
+    url: /
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
