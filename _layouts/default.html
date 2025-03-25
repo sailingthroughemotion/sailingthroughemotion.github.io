@@ -29,16 +29,6 @@
             <li><a href="{{ item.url }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
-        
-       <ul>
-        {% for link in site.external_links %}
-          <li>
-            <a href="{{ link.url }}" target="_blank">
-              <img src="{{ link.icon }}" alt="{{ link.name }}" style="width: 24px; height: 24px;" />
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
 
         {% if site.show_downloads %}
         <ul class="downloads">
