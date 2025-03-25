@@ -1,6 +1,15 @@
 title: yanavik.art
 logo: https://i.imgur.com/SpZMeHW.png
 description: "<br>I'm Uli and graphic design might be my passion. Feel free to shoot me an e-mail:<br><br><b>uvx@yanavik.art</b>"
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /
+  - title: "2025"
+    url: /
+  - title: "2024"
+    url: /
 external_links:
   - name: "Cara"
     url: "https://cara.app/yanavik"
